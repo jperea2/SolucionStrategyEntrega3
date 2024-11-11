@@ -1,0 +1,14 @@
+C:\Users\edwin\source\repos\Patron.State\Patron.State\obj\Debug\net8.0\Patron.State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\source\repos\Patron.State\Patron.State\obj\Debug\net8.0\Patron.State.AssemblyInfoInputs.cache
+C:\Users\edwin\source\repos\Patron.State\Patron.State\obj\Debug\net8.0\Patron.State.AssemblyInfo.cs
+C:\Users\edwin\source\repos\Patron.State\Patron.State\obj\Debug\net8.0\Patron.State.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\Patron.State\Patron.State\bin\Debug\net8.0\Patron.State.exe
+C:\Users\edwin\source\repos\Patron.State\Patron.State\bin\Debug\net8.0\Patron.State.deps.json
+C:\Users\edwin\source\repos\Patron.State\Patron.State\bin\Debug\net8.0\Patron.State.runtimeconfig.json
+C:\Users\edwin\source\repos\Patron.State\Patron.State\bin\Debug\net8.0\Patron.State.dll
+C:\Users\edwin\source\repos\Patron.State\Patron.State\bin\Debug\net8.0\Patron.State.pdb
+C:\Users\edwin\source\repos\Patron.State\Patron.State\obj\Debug\net8.0\Patron.State.dll
+C:\Users\edwin\source\repos\Patron.State\Patron.State\obj\Debug\net8.0\refint\Patron.State.dll
+C:\Users\edwin\source\repos\Patron.State\Patron.State\obj\Debug\net8.0\Patron.State.pdb
+C:\Users\edwin\source\repos\Patron.State\Patron.State\obj\Debug\net8.0\Patron.State.genruntimeconfig.cache
+C:\Users\edwin\source\repos\Patron.State\Patron.State\obj\Debug\net8.0\ref\Patron.State.dll
